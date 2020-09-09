@@ -1,0 +1,14 @@
+{
+    "name": "ugurcsen/basicmail",
+    "description": "Basic mail script with phpmailer.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ugurcan SEN",
+            "email": "ugurcsen@outlook.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
